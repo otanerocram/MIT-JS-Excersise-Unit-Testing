@@ -6,7 +6,7 @@ In this activity, we will walk you through a list of requirements for a function
 
 You need to write the unit tests, and implement the function Greet() described below, then upload a screenshot of your work.  
 
-###Here are the requirements: 
+### Here are the requirements: 
 
 First, Write a function called Greet(name) that takes an argument called name, and returns a simple greeting message. For example, if the name is “Elizabeth” the function should return “Hello, Elizabeth”.
 
